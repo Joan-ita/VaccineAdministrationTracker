@@ -77,11 +77,11 @@
                  <td><input type ="text" name="Inventory status"></td>
             </tr>
              <tr>
-                 <td><font color="black">Date Received: </font></td> 
+                 <td><font color="black"> Date Received: </font></td> 
                  <td><input type ="text" name="Inventory status"></td>
             </tr>
              <tr>
-                 <td><font color="black">IDate Distributed: </font></td> 
+                 <td><font color="black">Date Distributed: </font></td> 
                  <td><input type ="text" name="Inventory status"></td>
             </tr>
             <tr>
